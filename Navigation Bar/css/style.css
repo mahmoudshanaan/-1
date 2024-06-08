@@ -115,23 +115,24 @@ nav ul ul li:hover {
 }
 
 .input {
+ 
   height: 30px;
   line-height: 20px;
-  padding: 0 1rem;
+  padding: 15px 15rem;
   width: 100%;
   padding-left: 2.5rem;
   border: 2px solid transparent;
   border-radius: 8px;
   outline: none;
-  background-color: #D9E8D8;
-  color: #0d0c22;
-  box-shadow: 0 0 5px #C1D9BF, 0 0 0 10px #010652;
-  transition: .3s ease;
+  background-color: #ffffff;
+  color: #000000;
+  box-shadow: 0 0 5px #C1D9BF, 0 0 0 10px #8b8b8ba2;
+  transition: 1.9s ease;
   
 }
 
 .input::placeholder {
-  color: #777;
+  color: #000000;
 }
 
 .icon {
